@@ -9,6 +9,8 @@
 
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnj974" />
 
+&nbsp;
+
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnj974&layout=compact" />
 
 &nbsp;
@@ -28,5 +30,7 @@
 <img align="left" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+     
+&nbsp;
 
-<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
