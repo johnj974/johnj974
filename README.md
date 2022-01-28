@@ -7,11 +7,11 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=johnj974&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnj974" />
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnj974&theme=dark&background=141321" />
 
 &nbsp;
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnj974&layout=compact" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnj974&layout=compact&theme=radical" />
 
 &nbsp;
 
